@@ -1,5 +1,7 @@
 # Dwitter
 In my last year of HAVO in secondary school, I had to create a website for computer science as part of the examprogram. This had to be done with mysql, php, html and css. 
+
+You can visit the site [here](https://dwitter-official.000webhostapp.com).
 ## The assignment
 "Before creating the database you have already chosen which assignment you are going to make. Now this will become reality. The assignements are structured as follows, you start by making an action plan. Here you tell the information about your webshop, in principle this is already there fixed because you have already entered the data in the database. In addition, you submit an overview of the pages you think you need, work this out in a sitemap."
 
