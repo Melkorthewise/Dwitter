@@ -9,7 +9,7 @@ We could choose out the following assignments to make:
 - Forum
 - Game (dice)
 
-My friend and I chose to make a forum. We liked the idea of our own Twitter. So, we called it... Dwitter. We then had to make a sitemap which would show the pages that we thinked we needed. Also we had to make a list with demands for the site. Lukly there were already a few given with what the site had to do. You can see them in this table.
+My friend and I chose to make a forum. We liked the idea of our own Twitter. So, we called it ... Dwitter. We then had to make a sitemap which would show the pages that we thought we needed. Also we had to make a list with demands for the site. Lukly there were already a few given with what the site had to do. You can see them in this table, the bolded demands were our demands.
 
 | MoSCoW | Demands                                                                                                                       | Deadline | Responsibility |
 |--------|-------------------------------------------------------------------------------------------------------------------------------|----------|----------------|
